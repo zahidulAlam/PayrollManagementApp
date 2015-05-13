@@ -1,0 +1,20 @@
+F:\moon+shojib 2.06.14\Payrollmanagement\Payrollmanagement\obj\Debug\ResolveAssemblyReference.cache
+F:\moon+shojib 2.06.14\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.Form1.resources
+F:\moon+shojib 2.06.14\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.Properties.Resources.resources
+F:\moon+shojib 2.06.14\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.csproj.GenerateResource.Cache
+F:\moon+shojib 2.06.14\Payrollmanagement\Payrollmanagement\bin\Debug\Payrollmanagement.exe
+F:\moon+shojib 2.06.14\Payrollmanagement\Payrollmanagement\bin\Debug\Payrollmanagement.pdb
+F:\moon+shojib 2.06.14\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.exe
+F:\moon+shojib 2.06.14\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.pdb
+C:\Users\Shibly\Desktop\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.exe
+C:\Users\Shibly\Desktop\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.pdb
+D:\academic\C# lab\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.exe
+D:\academic\C# lab\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.pdb
+D:\academic\C# lab\Payrollmanagement\Payrollmanagement\bin\Debug\Payrollmanagement.exe
+D:\academic\C# lab\Payrollmanagement\Payrollmanagement\bin\Debug\Payrollmanagement.pdb
+D:\academic\C# lab\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.csprojResolveAssemblyReference.cache
+D:\academic\C# lab\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.Form1.resources
+D:\academic\C# lab\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.Properties.Resources.resources
+D:\academic\C# lab\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.csproj.GenerateResource.Cache
+E:\zahid\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.exe
+E:\zahid\Payrollmanagement\Payrollmanagement\obj\Debug\Payrollmanagement.pdb

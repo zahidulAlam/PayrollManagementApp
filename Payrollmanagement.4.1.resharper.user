@@ -1,0 +1,57 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="1461" scrollPosition="0|23" />
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="1312" scrollPosition="0|23" />
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="1674" scrollPosition="169|23" />
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="1402" scrollPosition="0|32" />
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="384" scrollPosition="0|14" />
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="1608" scrollPosition="106|31" />
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="1896" scrollPosition="1|27" />
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="2645" scrollPosition="1|60" />
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="2336" scrollPosition="0|45" />
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="2314" scrollPosition="0|54" />
+      <File id="56712A42-F663-4643-A052-5CC29CED17F7/f:Form1.cs" caret="2861" scrollPosition="0|63" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="House_Rant" priority="1" />
+      <Item value="ConvertEventHandler" priority="0" />
+      <Item value="Basic_Salary" priority="4" />
+      <Item value="Convert" priority="5" />
+      <Item value="Medical" priority="1" />
+      <Item value="Double" priority="2" />
+      <Item value="double" priority="0" />
+      <Item value="Tax" priority="1" />
+      <Item value="Total_Salary" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDouble" priority="4" />
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
